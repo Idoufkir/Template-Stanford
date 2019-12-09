@@ -1,0 +1,16 @@
+Liens --> course-detail.html pour tous les pages
+
+
+
+
+
+	- Index : Valider / Nom 404 Page
+
+		
+
+
+
+	- course.html: Valider / Nom 404 Page
+
+
+	- course-detail: Valider / nom 404 page
